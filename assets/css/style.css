@@ -1728,3 +1728,21 @@ section {
   font-size: 13px;
   color: #fff;
 }
+
+
+.logo-and-name {
+  display: flex;
+  align-items: center; /* Vertically center items */
+  justify-content: center; /* Horizontally center items */
+  gap: 10px; /* Optional: Add spacing between the logo and text */
+}
+
+.logo img {
+  max-height: 50px; /* Adjust to fit the desired size */
+}
+
+h1.logo {
+  font-size: 24px; /* Adjust font size as needed */
+  margin: 0; /* Remove default margins */
+  text-align: center; /* Optional: Center-align the text */
+}
