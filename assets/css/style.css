@@ -188,17 +188,12 @@ h1, h2, h3, h4, h5, h6 {
   gap: 10px; /* Optional: Add spacing between the logo and text */
 }
 
-#header .logo img {
-  max-height: 50px; /* Adjust to fit the desired size */
-}
 
 #header h1.logo {
   font-size: 24px; /* Adjust font size as needed */
   margin: 0; /* Remove default margins */
   text-align: center; /* Optional: Center-align the text */
 }
-
-
 
 #header.header-scrolled {
   top: 0;
